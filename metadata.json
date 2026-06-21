@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Family Kurd",
+  "description": "Advanced Patrilineal Family Tree Builder for visualizing, managing, and exporting male-only descendant lineages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
